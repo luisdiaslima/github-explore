@@ -13,7 +13,7 @@
 
 - Aqui está
 
-![Alt text](/ignore.gif)
+![Alt text](/ignoregif.gif)
 
 
 <h4 align="center">
